@@ -16,11 +16,11 @@ I will provide you the overview of each notebook files so you can choose the bes
 ## 1. getting_started.ipynb
 
 -> This notebook file contains :
-    a.Chossing devives (CPU or GPU)
-    b.Working with tensors
-    c.Common initialization methods 
-    d.Initializing and converting tensors into different types
-    e.Numpy array to tensor conversion and vice versa
+    ### a.Chossing devives (CPU or GPU)
+    ### b.Working with tensors
+    ### c.Common initialization methods 
+    ### d.Initializing and converting tensors into different types
+    ### e.Numpy array to tensor conversion and vice versa
  
 ## 2.math_operation.ipynb
 
