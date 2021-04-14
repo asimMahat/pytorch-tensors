@@ -1,4 +1,6 @@
 # pytorch-tensors
+
+
 # Introduction to Pytorch tensor basic operations.
 
 Here there are some jupyter notebook (.ipynb) files that guides you through the basics of pytorch-tensors.
@@ -8,6 +10,8 @@ I have written these codes with the reference of official pytorch documentation 
 
 You can find the pytorch documentation at :
 https://pytorch.org/docs/stable/index.html
+
+
 
 # TABLE OF CONTENTS:
 
@@ -60,6 +64,8 @@ I will provide you the overview of each notebook files so you can choose the bes
  
    ##### a.Reshaping tensors
    ##### b.Transpose
+   
+   
   
   
   # INSTALLATION:
